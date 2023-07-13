@@ -24,14 +24,10 @@ It is a personal journey between you and your aspirations. Each one should be di
 
 This React application is designed to help you to achieve your goals and live life at the fullest!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With  [![React][React.js]][React-url]
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
@@ -45,9 +41,11 @@ In the project directory, you can run:
 **npm start**
 
 Runs the app in the development mode.
+
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload when you make changes.
+
 You may also see any lint errors in the console.
 
 ## ⚡ Setup
@@ -56,13 +54,14 @@ This project was bootstrapped with **Create React App**
 
 The following technologies and components were used in this project:
 
-1. **Create React app**
-2. **npx create-react-app my-app**
-3. **cd my-app**
-4. **npm start**
+
+ **npx create-react-app my-app**
+ 
+ **cd my-app**
+ 
+ **npm start**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
