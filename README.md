@@ -7,7 +7,7 @@
     An awesome app to create you bucket list!
 
   </p>
-  <img src=[Screen Shot 2023-07-13 at 2 09 16 PM](https://github.com/KseGreb/Bucket-list/assets/110953599/91bdcd67-2e18-4cd4-bc52-73c8e5292ebf)
+  <img src="BucketList.png" />
 </div>
 
 
